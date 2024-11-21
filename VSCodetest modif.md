@@ -6,12 +6,12 @@ BeCode learner
 <ins>3 choses sur moi</ins>
 * Je suis photographe amatrice & autodidacte
 * Je suis dans le monde des chevaux depuis 14 ans
-* ?
+* Je peux être très maladroite mais c'esst marrant ça va
 
 <ins>3 choses que j'aime le plus sur cette terre</ins> 
 1. Le café
 2. Les bonnes chansons
-3. ?
+3. Ma famille
 
 <ins>Mon objectif en venant chez BeCode</ins>  
 Apprendre,  
