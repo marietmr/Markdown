@@ -31,4 +31,5 @@ Travailler dans ce que j'aime !
 * L'entraide
 * Pouvoir travailler avec les idées des autres  
 
-![GIF](https://cdn-images-1.medium.com/fit/t/1600/480/1*AmI9wRbXrfIWGESx6eEiTw.gif)
+![GIF](https://cdn-images-1.medium.com/fit/t/1600/480/1*AmI9wRbXrfIWGESx6eEiTw.gif)  
+hey
